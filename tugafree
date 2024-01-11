@@ -1,9 +1,4 @@
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]portugal 1[/COLOR][/B]</name>
-<thumbnail>https://www.google.com/search?q=thumbnail+tv&tbm=isch&ved=2ahUKEwiw-9G-69WDAxWAJ2IAHT4dB40Q2-cCegQIABAA&oq=thumbnail+tv&gs_lcp=CgNpbWcQDDIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeOgQIIxAnOgQIABAeOgUIABCABDoGCAAQBRAeOggIABCABBCxA1C-BlieJGDGN2gBcAB4AIAB1wGIAbAKkgEGMTIuMS4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=lyKgZfDTH4DPiLMPvrqc6Ag&bih=655&biw=1408&client=firefox-b-d#imgrc=asGe9a7lqo3xXM</thumbnail>
-<externallink>https://raw.githubusercontent.com/TuGaEk4/medblackiptv/main/texte</externallink>
-<fanart>https://webstockreview.net/images/television-clipart-tele-10.png</fanart>
-<info>portugalkodi.com</info>
-</channel>
 
+<channel> <name>[B][COLOR blue] [/COLOR] [COLOR yellow]TWO BR SERVIDOR 1 - Lista Nando [COLOR green] ON [/COLOR][/B]</name> <thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail> <fanart>https://ia600505.us.archive.org/15/items/screenshot-20230413-154347-whats-app-business/Screenshot_20230413-154347_WhatsAppBusiness.jpg</fanart> <info>[COLOR blue]* [COLOR blue]TESTES DE TV[/COLOR]</info> <externallink>https://livelinkm3u.nl/List/link-234104.m3u</externallink> </channel> 
+
+<channel> <name>[B][COLOR blue][/COLOR] [COLOR yellow]TWO BR SERVIDOR 2- [COLOR blue] VIP [COLOR yellow] AMOSTRA GRÁTIS [/COLOR][/B]</name> <thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail> <fanart>https://ia600505.us.archive.org/15/items/screenshot-20230413-154347-whats-app-business/Screenshot_20230413-154347_WhatsAppBusiness.jpg</fanart> <info>[COLOR blue]* [COLOR blue]teste de tv[/COLOR]</info> <externallink>https://raw.githubusercontent.com/twoaddons/REPO-TWO-ADDON/main/TESTE%202.xml</externallink> </channel>
