@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+</channels>
 <channel>
-<name>[B][COLOR blue] [/COLOR] [COLOR yellow]portugal 1[COLOR green] ON [/COLOR][/B]</name>
-<thumbnail>https://ia601506.us.archive.org/1/items/fa_20220903/two%20addons3.jpg</thumbnail>
-<fanart>https://ia600505.us.archive.org/15/items/screenshot-20230413-154347-whats-app-business/Screenshot_20230413-154347_WhatsAppBusiness.jpg
-<info>[COLOR blue]* [COLOR blue]TESTES DE TV[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/TuGaEk4/medblackiptv/main/texte</externallink>
+<name>[COLOR yellow][B]Server 1[/COLOR][/B]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzJ2GNSkK_icIpD90UqOq_FEanEmx8eRjMjg&usqp=CAU</thumbnail>
+<fanart>https://alvarovelho.net/images/artigos/customLogo.jpg</fanart>
+<externallink></externallink>
+<info></info>
 </channel>
