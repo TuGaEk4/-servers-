@@ -2,8 +2,39 @@
 </channels>
 <channel>
 <name>[COLOR yellow][B]Server 1[/COLOR][/B]</name>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzJ2GNSkK_icIpD90UqOq_FEanEmx8eRjMjg&usqp=CAU</thumbnail>
-<fanart>https://alvarovelho.net/images/artigos/customLogo.jpg</fanart>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <externallink>https://raw.githubusercontent.com/TuGaEk4/medblackiptv/main/texte</externallink>
 <info></info>
 </channel>
+
+<channels>
+</channels>
+<channel>
+<name>[COLOR yellow][B]Server 2[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/TuGaEk4/medblackiptv/main/texte</externallink>
+<info></info>
+</channel>
+
+<channels>
+</channels>
+<channel>
+<name>[COLOR yellow][B]Server 3[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/TuGaEk4/medblackiptv/main/texte</externallink>
+<info></info>
+</channel>
+
+<channels>
+</channels>
+<channel>
+<name>[COLOR yellow][B]Server 4[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/TuGaEk4/medblackiptv/main/texte</externallink>
+<info></info>
+</channel>
+
