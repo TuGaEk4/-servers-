@@ -1,7 +1,7 @@
 <channels>
 </channels>
 <channel>
-<name>[COLOR yellow][B]Server 1[/COLOR green][/B]on</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR yellow]SERVER 1[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink>https://raw.githubusercontent.com/TuGaEk4/medblackiptv/main/texte</externallink>
@@ -11,7 +11,7 @@
 <channels>
 </channels>
 <channel>
-<name>[COLOR yellow][B]Server 2[/COLOR green][/B]on</name>
+<name>[COLOR yellow][B]Server 2[/COLOR][/B]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <externallink></externallink>
